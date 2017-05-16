@@ -1,0 +1,7 @@
+﻿  main.cpp
+g:\gendertest(5th)lgp\lgptest\main.cpp(154): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+g:\gendertest(5th)lgp\lgptest\main.cpp(167): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+g:\gendertest(5th)lgp\lgptest\main.cpp(188): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+g:\gendertest(5th)lgp\lgptest\main.cpp(189): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  LGPTest.vcxproj -> G:\genderTest(5th)LGP\x64\Debug\LGPTest.exe
+  LGPTest.vcxproj -> G:\genderTest(5th)LGP\x64\Debug\LGPTest.pdb (Full PDB)

@@ -1,1 +1,0 @@
-# Gender-Recognition-with-classic-Neural-Network-BPNN-
